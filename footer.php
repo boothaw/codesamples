@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 function disqHandler(postId, link, disqId) {
     var loadId = document.getElementById("load-"+postId);
     var closeId = document.getElementById("close-"+postId);
@@ -53,4 +53,4 @@ function loadDisqus(url, id, storyId, disqId, disq){
         jQuery('head').append(dsq);
     }
 };
-</script>
+</script> -->

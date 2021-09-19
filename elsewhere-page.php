@@ -1,4 +1,4 @@
-<div class="disqus-container" >
+<!-- <div class="disqus-container" >
         <div class="disqus-content">
             <?php if (is_subscribed_to_any_memberful_plan(get_current_user_id()) || current_user_can('editor') || current_user_can('administrator')) {?>
                 <div id="story-<?php the_ID();?>" class="story-<?php the_ID();?> disq-init"></div>
@@ -16,4 +16,4 @@
                 }; ?>
         </div>
     </div>
-</div>
+</div> -->
